@@ -4,7 +4,7 @@
 
 I'm always looking for scalable solutions.
 
-🌍[Website](shaadcode.ir) - 📧[Email](shaadcode@gmail.com) - 💼 [Linkedin](https://www.linkedin.com/in/shaadcode)
+🌍[Website](https://shaadcode.ir) - 📧[Email](mailto:shaadcode@gmail.com) - 💼 [Linkedin](https://www.linkedin.com/in/shaadcode)
 
 
 
