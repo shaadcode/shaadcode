@@ -30,6 +30,17 @@ Fast and lightweight IDE for ICU messages
 :book: [Repo](https://github.com/shaadcode/ICU-Studio) | :bug: [Report Issue](https://github.com/shaadcode/ICU-Studio/issues) | :speech_balloon: [Feedback](https://github.com/shaadcode/ICU-Studio/discussions/categories/feedback)
 
 
+#### 🧰 Stack Kits
+
+Stacks for building projects with scalable infrastructure
+
+> Modern, scalable, powerful, simple
+
+🎨 Front-end
+
+:book: [Repo](https://github.com/shaadcode/shaadkit) | :bug: [Report Issue](https://github.com/shaadcode/shaadkit/issues) | :speech_balloon: [Feedback](https://github.com/shaadcode/shaadkit/discussions/categories/feedback)
+
+
 
 ### 💖 Support My Work
 
