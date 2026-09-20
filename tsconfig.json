@@ -1,0 +1,49 @@
+{
+  "compilerOptions": {
+    "incremental": true, // Enable faster incremental builds
+    "tsBuildInfoFile": ".cache/tsbuildinfo",
+    "target": "ES2023",
+    "jsx": "react-jsx",
+    "lib": ["DOM", "ES2023"],
+    "moduleDetection": "force",
+    "useDefineForClassFields": true,
+
+    /* modules */
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "allowArbitraryExtensions": true,
+    "allowImportingTsExtensions": true,
+    "allowJs": false,
+    "checkJs": false,
+    /* type checking */
+    "strict": true,
+    "allowUnreachableCode": false,
+    "alwaysStrict": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "useUnknownInCatchVariables": true,
+    "noEmit": true,
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "docs",
+    "theme",
+    "components",
+    "rspress.config.ts"
+  ],
+  "mdx": {
+    "checkMdx": true
+  }
+}

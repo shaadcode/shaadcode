@@ -1,0 +1,47 @@
+.walletCardContainer {
+  border: 1px solid var(--mantine-color-gray-5);
+  border-radius: var(--mantine-radius-lg);
+  padding: var(--mantine-spacing-lg);
+  width: 370px;
+  justify-content: center;
+  transition: all 0.2s;
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.heartIcon {
+  animation: heart 2s both infinite;
+}
+
+@keyframes heart {
+  0% {
+    transform: translateY(0%) scale(1);
+  }
+  50% {
+    transform: translateY(-50%) scale(1.3);
+  }
+  100% {
+    transform: translateY(0%) scale(1);
+  }
+}
+
+.currencyContainer {
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: var(--mantine-spacing-xs);
+  /* background-color: var(--mantine-color-green-1); */
+  border-radius: var(--mantine-radius-md);
+  border: 1px solid var(--mantine-color-green-6);
+  padding: 5px;
+}
+
+.networkContainer {
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: var(--mantine-spacing-xs);
+  /* background-color: var(--mantine-color-blue-1); */
+  border-radius: var(--mantine-radius-md);
+  border: 1px solid var(--mantine-color-blue-6);
+  padding: 5px;
+}

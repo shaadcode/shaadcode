@@ -1,0 +1,5 @@
+.rp-search-button,
+.rp-search-button--mobile,
+.rp-nav-screen-divider:nth-child(3) {
+  display: none;
+}
